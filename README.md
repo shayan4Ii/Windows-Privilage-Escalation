@@ -3,13 +3,7 @@
 
 ### General Links 
 
-Link to Website: https://www.thecybermentor.com/
 
-Links to course: 
-* https://www.udemy.com/course/windows-privilege-escalation-for-beginners/ (udemy)
-* https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners (tcm academy)
-
-Link to discord server: https://discord.gg/EM6tqPZ
 
 HackTheBox: https://www.hackthebox.eu/
 
